@@ -10,6 +10,6 @@ aws account and access to services: api gateway, lambda function and dynamodb.
 https://7te95zu8qa.execute-api.ap-northeast-1.amazonaws.com/prod/wordcount
 ## Test
 Post: { "word": "fit", "url": "https://www.virtusize.jp/"}
-![alt text](https://drive.google.com/file/d/1BJ7TGMkG-wxzjbuzTz2cNEmsNE5KIq3c/view)
+![alt text](https://ibb.co/TvXhbtz)
 ## Result
 {"status": 200,"count": 5} 
