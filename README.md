@@ -3,6 +3,7 @@ Design an API which counts how many times a word exists in a webpage
 source.
 ## Getting Started
 Design an API with serverless aws: api gateway, lambda function and dynamodb to store result.
+A serverless architecture is a way to build and run applications and services without having to manage infrastructure. Your application still runs on servers, but all the server management is done by AWS.
 ## Prerequisites
 aws account and access to services: api gateway, lambda function and dynamodb.
 ## Deployment
