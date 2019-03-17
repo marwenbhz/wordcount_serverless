@@ -13,3 +13,4 @@ Post: { "word": "fit", "url": "https://www.virtusize.jp/"}
 ![alt text](https://image.noelshack.com/fichiers/2019/11/7/1552852462-screen.png)
 ## Result
 {"status": 200,"count": 5} 
+![alt text](https://image.noelshack.com/fichiers/2019/11/7/1552852581-screen4.png)
