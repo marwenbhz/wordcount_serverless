@@ -9,7 +9,7 @@ aws account and access to services: api gateway, lambda function and dynamodb.
 [wordcount](https://7te95zu8qa.execute-api.ap-northeast-1.amazonaws.com/prod/wordcount) 
 https://7te95zu8qa.execute-api.ap-northeast-1.amazonaws.com/prod/wordcount
 ## Test
-![alt text](https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search/_jcr_content/main-pars/image/visual-reverse-image-search-v2_1000x560.jpg)
 Post: { "word": "fit", "url": "https://www.virtusize.jp/"}
+![alt text](https://drive.google.com/file/d/1BJ7TGMkG-wxzjbuzTz2cNEmsNE5KIq3c/view)
 ## Result
 {"status": 200,"count": 5} 
