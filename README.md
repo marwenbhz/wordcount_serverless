@@ -9,6 +9,7 @@ aws account and access to services: api gateway, lambda function and dynamodb.
 [wordcount](https://7te95zu8qa.execute-api.ap-northeast-1.amazonaws.com/prod/wordcount) 
 https://7te95zu8qa.execute-api.ap-northeast-1.amazonaws.com/prod/wordcount
 ## Test
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 Post: { "word": "fit", "url": "https://www.virtusize.jp/"}
 ## Result
 {"status": 200,"count": 5} 
