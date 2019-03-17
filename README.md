@@ -15,3 +15,7 @@ Post: { "word": "fit", "url": "https://www.virtusize.jp/"}
 ## Result
 {"status": 200,"count": 5} 
 ![alt text](https://image.noelshack.com/fichiers/2019/11/7/1552852581-screen4.png)
+## Quality of code
+Global evaluation
+-----------------
+Your code has been rated at 6.40/10 
