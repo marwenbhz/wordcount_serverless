@@ -1,6 +1,7 @@
 import boto3
 from botocore.vendored import requests
 
+
 def lambda_handler(event):
     client = boto3.client('dynamodb')
     try:
